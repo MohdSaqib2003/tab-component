@@ -1,0 +1,20 @@
+.container {
+  border: 1.5px solid #ebeaea;
+  border-radius: 4px;
+}
+.tab-btns {
+  border-bottom: 1px solid #e7dddd;
+  margin: 10px;
+  padding: 5px;
+  padding-left: 0;
+}
+.tab-btns .btn {
+  padding: 5px;
+  cursor: pointer;
+}
+.activeTab {
+  border-bottom: 2px solid #8a8afc;
+}
+.content {
+  margin: 10px;
+}
